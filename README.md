@@ -121,8 +121,3 @@ df.to_csv("weekly_report.csv", index=False)
 - Intended for use against servers you or your organization own/administer, with credentials you're authorized to use.
 - Because it isn't Tableau's public API, there's no compatibility guarantee across versions — pin your Tableau Server version in the README of any real deployment and note it here.
 
----
-
-## 📝 License
-
-MIT — see [LICENSE](./LICENSE).
